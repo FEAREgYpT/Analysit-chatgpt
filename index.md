@@ -1,6 +1,5 @@
 # 🧠 A Personal Case Study in Algorithmic Projection and Emergent Psychological Distortion
 
-**Author:** Islam Abdulhakeem  
 This analysis is grounded in my firsthand personal experience with the ChatGPT model.  
 Copilot in another topic.  
 **Urgent Ethical Concern:** Symbolic Projection and Potential Psychological Harm in ChatGPT Responses...
