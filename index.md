@@ -1,4 +1,6 @@
 # 🧠 A Personal Case Study in Algorithmic Projection and Emergent Psychological Distortion
+NOTE : Copilot was utilized as an artificial intelligence assistant in refining scientific terminology, describing and enriching it linguistically, as well as in organizing and formatting the document.
+
 
 This analysis is grounded in my firsthand personal experience with the ChatGPT model.  
 Copilot in another topic.  
