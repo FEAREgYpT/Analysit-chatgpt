@@ -533,6 +533,7 @@ The response asserts that ChatGPT’s linguistic programming is not neutral, but
 
 Such outcomes conflict directly with the **ethical standards** that artificial intelligence tools deployed in public domains are expected to uphold.
 
+Contact  : Islamyt9090@gmail.com
 ---
 ---
 
